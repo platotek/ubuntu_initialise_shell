@@ -1,0 +1,3 @@
+#initialise
+sudo cat sources.list>>/etc/apt/sources.list
+sudo apt-get update
